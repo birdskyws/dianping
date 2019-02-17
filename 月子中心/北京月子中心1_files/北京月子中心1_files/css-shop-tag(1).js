@@ -1,0 +1,1 @@
+define("css-shop-tag@0.1.3/index",[],function(n,i){"use strict";i.my_method=function(){}},{main:!0});
